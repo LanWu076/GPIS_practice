@@ -9,7 +9,7 @@ function [mu,var] = functionGP(ptTrainOn, ptTest, normal)
         1.*ones(size(ptTrainIn,1),1)];    
     
     % plot points
-    if 1
+    if 0
         figure;
         scatter3(ptTrainOut(:,1),ptTrainOut(:,2),ptTrainOut(:,3),'b.'); hold on; 
         scatter3(ptTrainIn(:,1),ptTrainIn(:,2),ptTrainIn(:,3),'ko'); hold on;
