@@ -1,9 +1,9 @@
 # GPIS_practice
 ## Table of contents
 * [General info](#general-info)
-* [GP Toolbox](#GP Toolbox)
-* [Implicit surface demo](#Implicit surface demo)
-* [Gaussian Process Implicit Surfaces demo](#Gaussian Process Implicit Surfaces demo)
+* [GP Toolbox](#GP-Toolbox)
+* [Implicit surface demo](#Implicit-surface-demo)
+* [Gaussian Process Implicit Surfaces demo](#Gaussian-Process-implicit-Surfaces-demo)
 
 ## General info
 This practice code is for Gaussian Process Implicit Surfaces (GPIS) tutorial. 
@@ -16,6 +16,8 @@ Project is created with:
 	
 ## Implicit surface demo
 To show the demo of implicit surface, just run the file implicitSurface.m
+![alt text](/home/lan/Desktop/implicit donut.png)
 
 ## Gaussian Process Implicit Surfaces demo
 Just run the file demoGPIS.m. It will take several minutes to finish the running.
+![alt text](/home/lan/Desktop/implicit bunny.png)
