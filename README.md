@@ -16,8 +16,8 @@ Project is created with:
 	
 ## Implicit surface demo
 To show the demo of implicit surface, just run the file implicitSurface.m
-![alt text](/home/lan/Desktop/implicit donut.png)
+![alt text](https://github.com/LanWu076/GPIS_practice/edit/master/implicit donut.png)
 
 ## Gaussian Process Implicit Surfaces demo
 Just run the file demoGPIS.m. It will take several minutes to finish the running.
-![alt text](/home/lan/Desktop/implicit bunny.png)
+![alt text](https://github.com/LanWu076/GPIS_practice/edit/master/implicit bunny.png)
